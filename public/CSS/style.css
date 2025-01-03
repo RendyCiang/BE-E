@@ -1,0 +1,25 @@
+.paragraf {
+    color: gold;
+    font-size: 30px;
+}
+
+.paragraf:hover {
+    color: steelblue;
+    background-color: lightgreen;
+}
+
+.title {
+    color: gray;
+    font-size: smaller;
+}
+
+#title-2 {
+    color: violet;
+    font-size: x-large;
+    margin-left: 2rem;
+}
+
+p {
+    color: tan;
+    margin-left: 2rem;
+}
